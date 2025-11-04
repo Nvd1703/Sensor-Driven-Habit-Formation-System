@@ -1,4 +1,4 @@
-# IMPLEMENTATION SUMMARY: Sensor-Driven Habit-Formation System
+# IMPLEMENTATION SUMMARY: Sensor-Driven Habit-Formation System (DEMO)
 
 ## Introductory Reflection
 
